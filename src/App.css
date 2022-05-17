@@ -1,0 +1,72 @@
+.form {
+  margin: -240px;
+  margin-left: 500px;
+}
+
+.btn2 {
+  color: whitesmoke;
+  background-color: green;
+}
+.btn3 {
+  color: whitesmoke;
+  background-color: rgb(46, 5, 197);
+}
+.modal {
+  width: 600px;
+  height: 200px;
+  margin-left: 400px;
+  border: 1px solid;
+}
+.mrg {
+  margin-left: 190px;
+}
+.header {
+  background-color: greenyellow;
+  justify-content: center;
+  text-align: center;
+}
+.input {
+  width: 300px;
+  height: 40px;
+}
+.container {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.btn {
+  width: 300px;
+  height: 30px;
+  border: none;
+  border-radius: 20px;
+  background-color: greenyellow;
+  color: black;
+  font-weight: 400px;
+  font-size: 15px;
+}
+.btn:hover {
+  background-color: gray;
+  color: white;
+}
+.main {
+  width: 100%;
+  max-width: 1024px;
+  margin: auto;
+}
+.button {
+  border: none;
+  background-color: greenyellow;
+  width: 90px;
+  border-radius: 20px;
+  height: 30px;
+  margin: 10px;
+}
+.buttonn {
+  height: 40px;
+  width: 100px;
+  border-radius: 20px;
+  border: none;
+  background-color: greenyellow;
+}
